@@ -1,0 +1,23 @@
+{
+  "name": "cdkai-cable-tools",
+  "owner": {
+    "name": "CDK AI System",
+    "email": "chedy028@cdkaisystem.com"
+  },
+  "metadata": {
+    "description": "CDK AI System marketplace for the Cable Ampacity plugin: MCP tools for Claude that rate power cables."
+  },
+  "plugins": [
+    {
+      "name": "cable-ampacity",
+      "source": "./cable-ampacity",
+      "description": "MCP tools for Claude that rate power cables (IEC 60287 and Neher-McGrath) through the hosted CDK AI System server.",
+      "version": "0.1.0",
+      "author": {
+        "name": "CDK AI System",
+        "email": "chedy028@cdkaisystem.com"
+      },
+      "license": "LicenseRef-Proprietary"
+    }
+  ]
+}

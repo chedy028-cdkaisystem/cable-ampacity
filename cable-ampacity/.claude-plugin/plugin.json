@@ -1,0 +1,24 @@
+{
+  "name": "cable-ampacity",
+  "displayName": "Cable Ampacity",
+  "version": "0.1.0",
+  "description": "MCP tools for Claude that rate power cables: steady-state ampacity by IEC 60287 or Neher-McGrath, cable selection and studies, cyclic, emergency and transient ratings, short-circuit limits, economic conductor size, route ratings, circuit placement and site ambient soil temperature. Calculations run on the hosted CDK AI System server; no account and no key.",
+  "author": {
+    "name": "CDK AI System",
+    "email": "chedy028@cdkaisystem.com"
+  },
+  "homepage": "https://docs.cdkaisystem.com",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "cable",
+    "ampacity",
+    "cable-rating",
+    "iec-60287",
+    "neher-mcgrath",
+    "power-engineering",
+    "underground-cable",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://docs.cdkaisystem.com/privacy",
+  "repository": "https://github.com/chedy028-cdkaisystem/cable-ampacity"
+}

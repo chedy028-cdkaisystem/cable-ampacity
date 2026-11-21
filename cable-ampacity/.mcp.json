@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cable-ampacity": {
+      "type": "http",
+      "url": "https://cable-ampacity-mcp.onrender.com/mcp"
+    }
+  }
+}
